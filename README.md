@@ -68,7 +68,3 @@ La partie se termine lorsque le joueur est éliminé ou qu’il a vaincu ou vass
 ├── Territoire/              # Villages, églises et terrains
 └── assets/                  # Images utilisées par l’interface
 ```
-
-## Contexte
-
-Projet pédagogique réalisé par **Léo Faucon** et **Eloïse Rullac**. La conception et les règles sont décrites plus en détail dans le compte rendu du projet, `README.pdf`.
